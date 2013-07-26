@@ -1,1 +1,3 @@
-class Module1 { }
+class Module1 {
+    void f();
+}
