@@ -1,5 +1,5 @@
 class Module1 {
     void f() {
-        printf("This should work.");
+        println("This should work.");
     }
 }
