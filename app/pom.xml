@@ -1,0 +1,7 @@
+<pom>
+  <version>1.0-SNAPSHOT</version>
+  <dependency>
+    <artifactId>module1</artifactId>
+    <artifactId>module2</artifactId>
+  </dependency>
+<pom>
