@@ -1,10 +1,16 @@
 <pom>
   <version>1.0-SNAPSHOT</version>
+
   <dependencyManagement>
+    <artifactId>module1</artifactId>
+    <version>1.1-SNAPSHOT</version>
+
     <artifactId>module2</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
   </dependencyManagement>
+
   <modules>
+    <module>app</module>
     <module>module1</module>
     <module>module2</module>
   </modules>
