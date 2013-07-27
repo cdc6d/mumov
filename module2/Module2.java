@@ -1,5 +1,5 @@
 class Module2 {
-    void f(String s) {
-        println(s + " is pretty good.");
+    void f() {
+        println("Module2 is pretty good.");
     }
 }
