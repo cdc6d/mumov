@@ -1,5 +1,6 @@
 class Module1 {
-    void f() {
+    void f(String s) {
         println("This should work.");
+        println(s);
     }
 }
