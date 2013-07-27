@@ -1,3 +1,5 @@
 class Module1 {
-    void f();
+    void f() {
+        println("This should work.");
+    }
 }
